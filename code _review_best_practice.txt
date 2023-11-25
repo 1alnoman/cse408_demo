@@ -1,0 +1,4 @@
+When we start code reviwe be polite 
+Accept other implementation
+If you suggest any minor changes then use NIT prefix i.e NIT: not very important need minor chagne but you can omit it also.
+FYI: Major change need may be break current CI
